@@ -1,7 +1,6 @@
 #  Nguyễn Đức Mạnh
 Học viện kỹ thuật mật mã.\
 AT20N.
-#
 #  Mình đã khám phá và học hỏi được gì về CTF trong học kỳ 1 của năm nhất đại học. 
 ## Biết đến CTF.
 Câu chuyện bắt đầu khi bước chân vào đại học. Lúc ấy mình chưa thực hiểu rõ ngành an toàn thông tin, và hiển nhiên là mình chưa biết gì về CTF cả. Nhưng trong đợt sinh hoạt đầu khóa của trường mình thì mình cũng đã được giới thiệu về CTF. Mình hiểu được cách phân chia của CTF về các thể thức và mảng. Thời gian bỡ ngỡ, mình chưa biết định hướng như nào, nên học gì trong môi trường đại học này thì có lẽ CTF đã trở thành kim chỉ nam của mình trong khoảng thời gian này.
@@ -21,4 +20,4 @@ Mình đã khám phá mảng "reverse engineering" thông qua việc giải mộ
 
 Tuy nhiên, quá trình học tập là một con đường dài.
 
-#TO BE CONTINUED
+# TO BE CONTINUED
